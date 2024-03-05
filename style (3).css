@@ -8,7 +8,7 @@ body {
   font-family: 'Muli', sans-serif;
   overflow: hidden;
   margin: 0;
-  background: #111;
+  background: #AAD095;
   height: 100vh;
   display: flex;
   justify-content: center; /*возможно глючил - есть задержка сервера виртуального - тут пока четко  */
@@ -24,7 +24,7 @@ body {
     border-radius: 20px;
     margin: 12px;
     cursor: pointer; /* курсор пальчик*/
-    color: #fff;
+    color: #EBB3BC;
     flex: 1;
     background-size: cover;
     background-position: center;
